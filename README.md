@@ -1,4 +1,4 @@
-# Generalized Few-Shot Continual Learning with Contrastive Mixture of Adapters
+# CMoA: Contrastive Mixture of Adapters for Generalized Few-Shot Continual Learning
 
 This repository contains the codes and protocols for "Generalized Few-Shot Continual Learning with Contrastive Mixture of Adapters".
 
