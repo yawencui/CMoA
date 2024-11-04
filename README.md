@@ -4,4 +4,4 @@ This repository contains the codes and protocols for "Generalized Few-Shot Conti
 
 The dataset splits of the protocols are in the dataset folder.
 
-The codes will be released soon.
+The code is based on [CVPR19_Incremental_Learning](https://github.com/hshustc/CVPR19_Incremental_Learning).
